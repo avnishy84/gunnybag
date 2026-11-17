@@ -1,0 +1,11 @@
+{
+  "name": "gunnybag-website",
+  "version": "1.0.0",
+  "description": "Static website for Usha Enterprises – Jute Gunny Bag Manufacturer & Exporter",
+  "private": true,
+  "scripts": {
+    "build": "echo \"No build step required – static site\"",
+    "start": "powershell -ExecutionPolicy Bypass -File serve.ps1",
+    "deploy": "firebase deploy --only hosting"
+  }
+}
