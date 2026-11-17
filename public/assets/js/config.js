@@ -5,7 +5,7 @@ const SITE_CONFIG = {
   COMPANY_NAME: "USHA ENTERPRISES",
   TAGLINE: "Manufacturer, Exporter & Supplier of Jute Gunny Bags from India",
   EMAIL: "info@yourdomain.com",
-  WHATSAPP: "+91XXXXXXXXXX",
+  // WHATSAPP: "+91XXXXXXXXXX",
   ADDRESS: "Bharat Nagar, New Delhi, India 110025",
   GST_NO: "07EQUPP1416B1ZT",
   DOMAIN: "https://gunnybag-b5be8.web.app",
