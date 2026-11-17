@@ -8,7 +8,7 @@ const SITE_CONFIG = {
   WHATSAPP: "+91XXXXXXXXXX",
   ADDRESS: "Bharat Nagar, New Delhi, India 110025",
   GST_NO: "07EQUPP1416B1ZT",
-  DOMAIN: "https://yourdomain.com",
+  DOMAIN: "https://gunnybag-b5be8.web.app",
   // Form endpoint: set to your Formspree or Web3Forms URL
   // e.g. "https://formspree.io/f/XXXXXXXX" or "https://api.web3forms.com/submit"
   FORM_ENDPOINT: "",
