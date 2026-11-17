@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120" role="img" aria-label="Usha Enterprises logo">
+  <title>Usha Enterprises</title>
+
+  <!-- ===== ICON MARK (left side) ===== -->
+  <!-- Outer dark-green arc (the "U" circle ring) -->
+  <path d="M72,18 A46,46 0 1,0 118,64 A46,46 0 0,0 72,18 Z
+           M72,26 A38,38 0 1,1 34,64 A38,38 0 0,1 72,26 Z"
+        fill="#2A5C2A" opacity="0.15"/>
+
+  <!-- Bold dark-green "U" letterform -->
+  <text x="30" y="90"
+        font-family="'Georgia','Times New Roman',serif"
+        font-size="88"
+        font-weight="700"
+        fill="#1E4D1E"
+        letter-spacing="-2">U</text>
+
+  <!-- Wheat / grain stalk (top-right of icon, golden) -->
+  <!-- Main stem -->
+  <path d="M88,12 Q94,32 92,54" stroke="#B8860B" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <!-- Grain kernels -->
+  <ellipse cx="84" cy="16" rx="5" ry="3" fill="#C8960C" transform="rotate(-30 84 16)"/>
+  <ellipse cx="90" cy="13" rx="5" ry="3" fill="#D4A017" transform="rotate(-15 90 13)"/>
+  <ellipse cx="96" cy="13" rx="5" ry="3" fill="#D4A017" transform="rotate(5 96 13)"/>
+  <ellipse cx="101" cy="16" rx="5" ry="3" fill="#C8960C" transform="rotate(20 101 16)"/>
+  <ellipse cx="105" cy="21" rx="5" ry="3" fill="#B8860B" transform="rotate(35 105 21)"/>
+  <ellipse cx="107" cy="27" rx="4.5" ry="2.8" fill="#A07810" transform="rotate(48 107 27)"/>
+  <ellipse cx="107" cy="34" rx="4" ry="2.5" fill="#8B6914" transform="rotate(55 107 34)"/>
+  <!-- Left side kernels -->
+  <ellipse cx="87" cy="20" rx="4.5" ry="2.8" fill="#C8960C" transform="rotate(-45 87 20)"/>
+  <ellipse cx="84" cy="26" rx="4" ry="2.5" fill="#B8860B" transform="rotate(-55 84 26)"/>
+  <ellipse cx="83" cy="33" rx="3.5" ry="2.2" fill="#A07810" transform="rotate(-60 83 33)"/>
+
+  <!-- Two green leaves (lower left of icon) -->
+  <!-- Left leaf -->
+  <path d="M44,78 Q32,62 46,50 Q52,66 44,78 Z" fill="#2A7A2A"/>
+  <path d="M44,78 Q42,65 46,50" stroke="#1E5C1E" stroke-width="1" fill="none"/>
+  <!-- Right leaf -->
+  <path d="M56,82 Q44,64 60,52 Q66,70 56,82 Z" fill="#3A8A3A"/>
+  <path d="M56,82 Q54,68 60,52" stroke="#2A6A2A" stroke-width="1" fill="none"/>
+
+  <!-- Field / ground lines (bottom of icon) -->
+  <path d="M24,96 Q48,88 90,92" stroke="#2A5C2A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M28,101 Q52,94 86,97" stroke="#3A6E3A" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.75"/>
+  <path d="M32,106 Q56,100 82,102" stroke="#4A7E4A" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- ===== WORDMARK (right side) ===== -->
+  <!-- "USHA" in large dark green serif -->
+  <text x="128" y="78"
+        font-family="'Georgia','Times New Roman',serif"
+        font-size="58"
+        font-weight="700"
+        fill="#1E4D1E"
+        letter-spacing="1">USHA</text>
+
+  <!-- "ENTERPRISES" in spaced brown caps -->
+  <text x="134" y="100"
+        font-family="'Georgia','Times New Roman',serif"
+        font-size="19"
+        font-weight="400"
+        fill="#7B4A10"
+        letter-spacing="5">ENTERPRISES</text>
+
+  <!-- Decorative rule under ENTERPRISES -->
+  <!-- Left line -->
+  <line x1="134" y1="108" x2="230" y2="108" stroke="#8B5E14" stroke-width="1.2"/>
+  <!-- Right line -->
+  <line x1="258" y1="108" x2="390" y2="108" stroke="#8B5E14" stroke-width="1.2"/>
+  <!-- Small leaf ornament centre -->
+  <path d="M244,112 Q240,106 236,112 Q240,110 244,112 Z" fill="#3A7A3A"/>
+  <path d="M244,112 Q248,106 252,112 Q248,110 244,112 Z" fill="#3A7A3A"/>
+  <circle cx="244" cy="112" r="1.5" fill="#2A5C2A"/>
+</svg>
