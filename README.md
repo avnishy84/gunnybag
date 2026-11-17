@@ -68,7 +68,7 @@ Replace every SVG placeholder with your real product photos:
 
 | File | Product / Use |
 |------|--------------|
-| `placeholder-hero.svg` | Hero background (1600×600 recommended) |
+| `hero.jpg` | Hero background (1600×600 recommended) |
 | `placeholder-product-1a/b/c.svg` | Heavy Duty Sacks (3 photos) |
 | `placeholder-product-2a/b/c.svg` | Coffee & Cocoa Bags (3 photos) |
 | `placeholder-product-3a/b/c.svg` | 50–60 kg Grain Sacks (3 photos) |

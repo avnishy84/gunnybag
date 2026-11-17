@@ -35,7 +35,7 @@
 
   // ---- FEATURED PRODUCT CARD (index.html grid) ----
   function renderFeaturedCard(product) {
-    const img = product.images && product.images[0] ? '/assets/img/' + product.images[0] : '/assets/img/placeholder-product-1a.svg';
+    const img = product.images && product.images[0] ? '/assets/img/' + product.images[0] : '/assets/img/product-heavy-duty-1.jpg';
     return `
       <article class="product-card reveal">
         <img
@@ -65,7 +65,7 @@
 
   // ---- CATALOGUE CARD (products.html) ----
   function renderCatalogueCard(product) {
-    const img = product.images && product.images[0] ? '/assets/img/' + product.images[0] : '/assets/img/placeholder-product-1a.svg';
+    const img = product.images && product.images[0] ? '/assets/img/' + product.images[0] : '/assets/img/product-heavy-duty-1.jpg';
     const specHighlights = Object.entries(product.specs || {})
       .slice(0, 4)
       .map(([k, v]) => `<span class="spec-highlight"><strong>${escHtml(k)}:</strong> ${escHtml(v)}</span>`)
